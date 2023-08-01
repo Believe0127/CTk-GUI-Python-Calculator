@@ -13,8 +13,7 @@ If it doesn't start, please install python.
 python download link: https://www.python.org/
 
 Preview:
+![スクリーンショット 2023-08-01 224841](https://github.com/Believe0127/Perfect-Python-Calculator./assets/101379299/479e8957-702a-4e3e-80b4-336f34a5cfb1)
 
 
-
-https://github.com/Believe0127/Perfect-Python-Calculator./assets/101379299/00e7fbeb-5c85-4250-b4eb-be0e466e70a4
 
