@@ -1,0 +1,4 @@
+Double-click Calculator.exe to start it.
+
+If it doesn't start, download Python from this site, install it, and start it.
+Python download link: https://www.python.org/

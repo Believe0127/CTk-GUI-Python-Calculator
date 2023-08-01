@@ -7,7 +7,7 @@ CTk.set_appearance_mode('Dark')
 CTk.set_default_color_theme('blue')
 
 app = CTk.CTk()
-app.title("電卓 V5")
+app.title("電卓 Ver.5.1")
 app.geometry("299x370")
 app.iconbitmap(default="./icon/icon.ico")
 
@@ -20,9 +20,12 @@ def AC():
     write_entry.delete(0, CTk.END)
     ans_entry.delete(0, CTk.END)
 
-def copy_ans():
-    copys = ans_entry.get()
-    pyperclip.copy(copys)
+def percent_calculate():
+    value = int(write_entry.get())
+    ans =  value / 100
+    write_entry.delete(0, CTk.END)
+    write_entry.insert(0, ans)
+
 
 def write0():
     write_entry.insert(CTk.END, '0')
@@ -120,7 +123,7 @@ nine_btn.place(x=150, y=185)
 
 AC_btn = CTk.CTkButton(master=app, text="AC", height=45, width=65, font=('Heaveltica', 23, 'bold'), command=AC)
 C_btn = CTk.CTkButton(master=app, text="C", height=45, width=65, font=('Heaveltica', 23, 'bold'), command=C)
-copy_btn = CTk.CTkButton(master=app, text="Copy", height=45, width=65, font=('Heaveltica', 23, 'bold'), command=copy_ans)
+percent_btn = CTk.CTkButton(master=app, text="％", height=45, width=65, font=('Heaveltica', 23, 'bold'), command=percent_calculate)
 plus_btn = CTk.CTkButton(master=app, text='+', height=45, width=65, font=('Heavaltica', 23, 'bold'), command=write_plus)
 minus_btn = CTk.CTkButton(master=app, text='ー', height=45, width=65, font=('Heaveltica', 23, 'bold'), command=write_minus)
 multiplication_btn = CTk.CTkButton(master=app, text='×', height=45, width=65, font=('Heavaltica', 23, 'bold'), command=write_multiplication)
@@ -130,7 +133,7 @@ equal_btn = CTk.CTkButton(master=app, text="=", height=45, width=65, font=('Heav
 
 AC_btn.pack()
 C_btn.pack()
-copy_btn.pack()
+percent_btn.pack()
 equal_btn.pack()
 konma_btn.pack()
 plus_btn.pack()
@@ -138,9 +141,9 @@ minus_btn.pack()
 multiplication_btn.pack()
 divide_btn.pack()
 
-AC_btn.place(x=85, y=140)
+AC_btn.place(x=20, y=140)
 C_btn.place(x=150, y=140)
-copy_btn.place(x=14, y=140)
+percent_btn.place(x=85, y=140)
 equal_btn.place(x=215, y=320)
 konma_btn.place(x=150, y=320)
 plus_btn.place(x=215, y=275)
