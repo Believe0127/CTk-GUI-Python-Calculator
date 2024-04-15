@@ -1,11 +1,11 @@
-# Perfect-Python-Calculator.
+# GUI-Python-Calculator.
 
-It is a calculator that I thought was the best among the calculators I have made so far.
+Created using Custom Tokinter.
 
 How to use:
 
 Download Calculator.zip in the release:
-https://github.com/Believe0127/Perfect-Python-Calculator./releases/tag/CalculatorV5
+[https://github.com/Believe0127/Perfect-Python-Calculator./releases/tag/CalculatorV5](https://github.com/Believe0127/Perfect-Python-Calculator./releases/tag/CalculatorV5.4)
 
 Just unzip and run 'Calculator.exe' inside the zip.
 If it doesn't start, please install python.
@@ -13,7 +13,4 @@ If it doesn't start, please install python.
 python download link: https://www.python.org/
 
 Preview:
-![スクリーンショット 2023-08-01 224841](https://github.com/Believe0127/Perfect-Python-Calculator./assets/101379299/479e8957-702a-4e3e-80b4-336f34a5cfb1)
-
-
-
+![スクリーンショット 2024-04-15 221823](https://github.com/Believe0127/Perfect-Python-Calculator./assets/101379299/7d9df891-5f62-4d50-8e75-516d47e88f0c)
