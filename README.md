@@ -7,8 +7,7 @@ How to use:
 
 Just unzip and run 'Calculator.exe' inside the zip.
 If it doesn't start, please install python.
-
-python download link: https://www.python.org/
+[Download Python](https://www.python.org/)
 
 Preview:
 
