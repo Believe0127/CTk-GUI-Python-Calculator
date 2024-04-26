@@ -5,7 +5,7 @@ Created using Custom Tokinter.
 How to use:
 
 Download Calculator.zip in the release:
-[https://github.com/Believe0127/Perfect-Python-Calculator./releases/tag/CalculatorV5](https://github.com/Believe0127/Perfect-Python-Calculator./releases/tag/CalculatorV5.4)
+[Download Calculator](https://github.com/Believe0127/Perfect-Python-Calculator./releases/tag/CalculatorV5.4)
 
 Just unzip and run 'Calculator.exe' inside the zip.
 If it doesn't start, please install python.
