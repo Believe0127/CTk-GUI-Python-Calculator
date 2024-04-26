@@ -12,5 +12,3 @@ If it doesn't start, please install python.
 Preview:
 
 ![Preview](https://github.com/Believe0127/Perfect-Python-Calculator./assets/101379299/7d9df891-5f62-4d50-8e75-516d47e88f0c)
-
-Please excuse the dirty Python code:)
