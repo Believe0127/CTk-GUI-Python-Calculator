@@ -1,4 +1,4 @@
-# GUI-Python Calculator.
+# CTk GUI Python Calculator
 
 Created using the customtkinter library.
 
