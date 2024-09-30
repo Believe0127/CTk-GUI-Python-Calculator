@@ -4,13 +4,13 @@ Created using the customtkinter library.
 
 # How to use
 
-[Download Calculator](https://github.com/Believe0127/Perfect-Python-Calculator./releases/tag/CalculatorV5.4)
+[Download Calculator](https://github.com/Believe0127/CTk-GUI-Python-Calculator./releases/tag/CalculatorV5.6)
 
 Just unzip and run 'Calculator.exe' inside the zip.
 
 If it doesn't start, please install python.
 
-[Download Python](https://www.python.org/)
+[Download Python](https://www.python.org/downloads/)
 
 # Preview
 
