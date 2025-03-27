@@ -14,5 +14,4 @@ If it doesn't start, please install python.
 
 # Preview
 
-![スクリーンショット 2024-09-30 223522](https://github.com/user-attachments/assets/c335a15f-0d3f-4c79-84b5-73a2507bda21)
-
+![image](https://github.com/user-attachments/assets/b786af9c-0462-4fb1-8cf0-ebc0f175feb5)
