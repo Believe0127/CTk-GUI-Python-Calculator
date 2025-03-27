@@ -1,6 +1,6 @@
-# CTk GUI Python Calculator
+# GUI Calculator
 
-Created using the customtkinter library.
+I made it using the customtkinter library.
 
 # How to use
 
