@@ -1,6 +1,5 @@
 import customtkinter as CTk
 
-#def main() -> None:
 class Calculator(CTk.CTk):
     def __init__(self):
         super().__init__()
